@@ -1,3 +1,28 @@
 body {
-  background-color: black;
+  background-color: rgb(28, 28, 28) !important;
+  color: #e5e5e5 !important;
+  font-family: "Poppins", "Quicksand", sans-serif !important;
+}
+
+.title {
+  margin-block: 4rem;
+  text-align: center;
+}
+
+.card-text {
+  padding-top: 2rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.card-text-quant {
+  font-size: 1rem;
+}
+
+.card-subtitle {
+  opacity: 70%;
+}
+
+.filter-container {
+  margin: 2rem 1rem;
 }
