@@ -1,11 +1,11 @@
 # Vinyl_E-Commerce_Coder
-# Entrega 2 de Js De Coderhouse
+# Entrega 3 de Js De Coderhouse
 Repo para las entregas del curso!
 
 ## Descripción
 
 Simple simulador de las funciones básicas de un E-Commerce  
-El usuario puede ver los items del catálogo, filtrarlos por década como para saber cuáles hay, añadirlos a su carrito y ver el carrito. Todo interactuando con botones.
+El usuario puede ver los items del catálogo, filtrarlos por década como para saber cuáles hay, añadirlos a su carrito y ver el carrito. Todo interactuando con botones y checkboxes.
 
 ## Se utilizan:
 + Condicionales
@@ -14,6 +14,10 @@ El usuario puede ver los items del catálogo, filtrarlos por década como para s
 + Funciones de orden superior
 + Objetos
 + Arrays
++ Métodos
++ Librerías
++ DOM
++ Eventos
 
 ---
 **Curso:** Javascript en Coderhouse
