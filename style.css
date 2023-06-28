@@ -26,3 +26,16 @@ body {
 .filter-container {
   margin: 2rem 1rem;
 }
+
+.login-form {
+  min-height: 100vh;
+}
+
+.fa-solid {
+  cursor: pointer;
+}
+
+.vinyl-icon {
+  font-size: 10rem;
+  cursor: default;
+}

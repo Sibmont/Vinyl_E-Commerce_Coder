@@ -1,10 +1,9 @@
-{
-    "catalog": [
+[
       {
         "artist": "Pink Floyd",
         "album": "The Dark Side of the Moon",
         "genre": "Progressive Rock",
-        "release": "March 1, 1973",
+        "release": "1973",
         "tracks": [
           "Speak to Me",
           "Breathe",
@@ -17,15 +16,16 @@
           "Brain Damage",
           "Eclipse"
         ],
-        "coverImage": "https://example.com/albums/dark-side-of-the-moon.jpg",
+        "coverImage": "./images/the-dark-side-of-the-moon.jpg",
         "price": 29.99,
-        "stock": 10
+        "stock": 10,
+        "albumID": 0
       },
       {
         "artist": "The Beatles",
         "album": "Abbey Road",
         "genre": "Rock",
-        "release": "September 26, 1969",
+        "release": "1969",
         "tracks": [
           "Come Together",
           "Something",
@@ -45,15 +45,16 @@
           "The End",
           "Her Majesty"
         ],
-        "coverImage": "https://example.com/albums/abbey-road.jpg",
+        "coverImage": "./images/abbey-road.jpg",
         "price": 24.99,
-        "stock": 5
+        "stock": 5,
+        "albumID": 1
       },
       {
         "artist": "Led Zeppelin",
         "album": "Led Zeppelin IV",
         "genre": "Hard Rock",
-        "release": "November 8, 1971",
+        "release": "1971",
         "tracks": [
           "Black Dog",
           "Rock and Roll",
@@ -64,15 +65,16 @@
           "Going to California",
           "When the Levee Breaks"
         ],
-        "coverImage": "https://example.com/albums/led-zeppelin-iv.jpg",
+        "coverImage": "./images/led-zeppelin-iv.jpg",
         "price": 27.99,
-        "stock": 7
+        "stock": 7,
+        "albumID": 2
       },
       {
         "artist": "Michael Jackson",
         "album": "Thriller",
         "genre": "Pop",
-        "release": "November 30, 1982",
+        "release": "1982",
         "tracks": [
           "Wanna Be Startin' Somethin'",
           "Baby Be Mine",
@@ -84,15 +86,16 @@
           "P.Y.T. (Pretty Young Thing)",
           "The Lady in My Life"
         ],
-        "coverImage": "https://example.com/albums/thriller.jpg",
+        "coverImage": "./images/thriller.jpg",
         "price": 21.99,
-        "stock": 3
+        "stock": 3,
+        "albumID": 3
       },
       {
         "artist": "David Bowie",
         "album": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars",
         "genre": "Rock",
-        "release": "June 16, 1972",
+        "release": "1972",
         "tracks": [
           "Five Years",
           "Soul Love",
@@ -106,15 +109,16 @@
           "Suffragette City",
           "Rock 'n' Roll Suicide"
         ],
-        "coverImage": "https://example.com/albums/ziggy-stardust.jpg",
+        "coverImage": "./images/the-rise-and-fall-of-ziggy-stardust-and-the-spiders-from-mars.jpg",
         "price": 19.99,
-        "stock": 8
+        "stock": 8,
+        "albumID": 4
       },
       {
         "artist": "The Rolling Stones",
         "album": "Exile on Main St.",
         "genre": "Rock",
-        "release": "May 12, 1972",
+        "release": "1972",
         "tracks": [
           "Rocks Off",
           "Rip This Joint",
@@ -135,15 +139,16 @@
           "Shine a Light",
           "Soul Survivor"
         ],
-        "coverImage": "https://example.com/albums/exile-on-main-st.jpg",
+        "coverImage": "./images/exile-on-main-st.jpg",
         "price": 23.99,
-        "stock": 6
+        "stock": 6,
+        "albumID": 5
       },
       {
         "artist": "Bob Dylan",
         "album": "Highway 61 Revisited",
         "genre": "Folk Rock",
-        "release": "August 30, 1965",
+        "release": "1965",
         "tracks": [
           "Like a Rolling Stone",
           "Tombstone Blues",
@@ -155,15 +160,16 @@
           "Just Like Tom Thumb's Blues",
           "Desolation Row"
         ],
-        "coverImage": "https://example.com/albums/highway-61-revisited.jpg",
+        "coverImage": "./images/highway-61-revisited.jpg",
         "price": 18.99,
-        "stock": 9
+        "stock": 9,
+        "albumID": 6
       },
       {
         "artist": "Nirvana",
         "album": "Nevermind",
         "genre": "Grunge",
-        "release": "September 24, 1991",
+        "release": "1991",
         "tracks": [
           "Smells Like Teen Spirit",
           "In Bloom",
@@ -178,15 +184,16 @@
           "On a Plain",
           "Something in the Way"
         ],
-        "coverImage": "https://example.com/albums/nevermind.jpg",
+        "coverImage": "./images/nevermind.jpg",
         "price": 22.99,
-        "stock": 4
+        "stock": 4,
+        "albumID": 7
       },
       {
         "artist": "Queen",
         "album": "A Night at the Opera",
         "genre": "Rock",
-        "release": "November 21, 1975",
+        "release": "1975",
         "tracks": [
           "Death on Two Legs (Dedicated to...)",
           "Lazing on a Sunday Afternoon",
@@ -201,15 +208,16 @@
           "Bohemian Rhapsody",
           "God Save the Queen"
         ],
-        "coverImage": "https://example.com/albums/a-night-at-the-opera.jpg",
+        "coverImage": "./images/a-night-at-the-opera.jpg",
         "price": 26.99,
-        "stock": 12
+        "stock": 12,
+        "albumID": 8
       },
       {
         "artist": "Fleetwood Mac",
         "album": "Rumours",
         "genre": "Rock",
-        "release": "February 4, 1977",
+        "release": "1977",
         "tracks": [
           "Second Hand News",
           "Dreams",
@@ -223,15 +231,16 @@
           "Oh Daddy",
           "Gold Dust Woman"
         ],
-        "coverImage": "https://example.com/albums/rumours.jpg",
+        "coverImage": "./images/rumours.jpg",
         "price": 25.99,
-        "stock": 7
+        "stock": 7,
+        "albumID": 9
       },
       {
         "artist": "Jimi Hendrix",
         "album": "Are You Experienced",
         "genre": "Rock",
-        "release": "May 12, 1967",
+        "release": "1967",
         "tracks": [
           "Purple Haze",
           "Manic Depression",
@@ -245,15 +254,16 @@
           "Foxey Lady",
           "Are You Experienced"
         ],
-        "coverImage": "https://example.com/albums/are-you-experienced.jpg",
+        "coverImage": "./images/are-you-experienced.jpg",
         "price": 20.99,
-        "stock": 5
+        "stock": 5,
+        "albumID": 10
       },
       {
         "artist": "Radiohead",
         "album": "OK Computer",
         "genre": "Alternative Rock",
-        "release": "May 21, 1997",
+        "release": "1997",
         "tracks": [
           "Airbag",
           "Paranoid Android",
@@ -268,15 +278,16 @@
           "Lucky",
           "The Tourist"
         ],
-        "coverImage": "https://example.com/albums/ok-computer.jpg",
+        "coverImage": "./images/ok-computer.jpg",
         "price": 24.99,
-        "stock": 3
+        "stock": 3,
+        "albumID": 11
       },
       {
         "artist": "Prince",
         "album": "Purple Rain",
         "genre": "Pop",
-        "release": "June 25, 1984",
+        "release": "1984",
         "tracks": [
           "Let's Go Crazy",
           "Take Me with U",
@@ -288,15 +299,16 @@
           "Baby I'm a Star",
           "Purple Rain"
         ],
-        "coverImage": "https://example.com/albums/purple-rain.jpg",
+        "coverImage": "./images/purple-rain.jpg",
         "price": 22.99,
-        "stock": 6
+        "stock": 6,
+        "albumID": 12
       },
       {
         "artist": "The Clash",
         "album": "London Calling",
         "genre": "Punk Rock",
-        "release": "December 14, 1979",
+        "release": "1979",
         "tracks": [
           "London Calling",
           "Brand New Cadillac",
@@ -318,15 +330,16 @@
           "Revolution Rock",
           "Train in Vain"
         ],
-        "coverImage": "https://example.com/albums/london-calling.jpg",
+        "coverImage": "./images/london-calling.jpg",
         "price": 19.99,
-        "stock": 10
+        "stock": 10,
+        "albumID": 13
       },
       {
         "artist": "Amy Winehouse",
         "album": "Back to Black",
         "genre": "Soul",
-        "release": "October 27, 2006",
+        "release": "2006",
         "tracks": [
           "Rehab",
           "You Know I'm No Good",
@@ -340,15 +353,16 @@
           "He Can Only Hold Her",
           "Addicted"
         ],
-        "coverImage": "https://example.com/albums/back-to-black.jpg",
+        "coverImage": "./images/back-to-black.jpg",
         "price": 21.99,
-        "stock": 7
+        "stock": 7,
+        "albumID": 14
       },
       {
         "artist": "Bruce Springsteen",
         "album": "Born to Run",
         "genre": "Rock",
-        "release": "August 25, 1975",
+        "release": "1975",
         "tracks": [
           "Thunder Road",
           "Tenth Avenue Freeze-Out",
@@ -359,15 +373,16 @@
           "Meeting Across the River",
           "Jungleland"
         ],
-        "coverImage": "https://example.com/albums/born-to-run.jpg",
+        "coverImage": "./images/born-to-run.jpg",
         "price": 23.99,
-        "stock": 4
+        "stock": 4,
+        "albumID": 15
       },
       {
         "artist": "Elton John",
         "album": "Goodbye Yellow Brick Road",
         "genre": "Pop Rock",
-        "release": "October 5, 1973",
+        "release": "1973",
         "tracks": [
           "Funeral for a Friend/Love Lies Bleeding",
           "Candle in the Wind",
@@ -387,15 +402,16 @@
           "Social Disease",
           "Harmony"
         ],
-        "coverImage": "https://example.com/albums/goodbye-yellow-brick-road.jpg",
+        "coverImage": "./images/goodbye-yellow-brick-road.jpg",
         "price": 26.99,
-        "stock": 9
+        "stock": 9,
+        "albumID": 16
       },
       {
         "artist": "The Smiths",
         "album": "The Queen Is Dead",
         "genre": "Indie Rock",
-        "release": "June 16, 1986",
+        "release": "1986",
         "tracks": [
           "The Queen Is Dead",
           "Frankly, Mr. Shankly",
@@ -408,15 +424,16 @@
           "There Is a Light That Never Goes Out",
           "Some Girls Are Bigger Than Others"
         ],
-        "coverImage": "https://example.com/albums/the-queen-is-dead.jpg",
+        "coverImage": "./images/the-queen-is-dead.jpg",
         "price": 18.99,
-        "stock": 5
+        "stock": 5,
+        "albumID": 17
       },
       {
         "artist": "Johnny Cash",
         "album": "At Folsom Prison",
         "genre": "Country",
-        "release": "May 1968",
+        "release": "1968",
         "tracks": [
           "Folsom Prison Blues",
           "Dark as a Dungeon",
@@ -435,9 +452,9 @@
           "Green, Green Grass of Home",
           "Greystone Chapel"
         ],
-        "coverImage": "https://example.com/albums/at-folsom-prison.jpg",
+        "coverImage": "./images/at-folsom-prison.jpg",
         "price": 20.99,
-        "stock": 7
+        "stock": 7,
+        "albumID": 18
       }
     ]
-  }
