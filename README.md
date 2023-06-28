@@ -1,11 +1,11 @@
 # Vinyl_E-Commerce_Coder
-# Entrega 3 de Js De Coderhouse
+# Entrega Final de Js De Coderhouse
 Repo para las entregas del curso!
 
 ## Descripción
 
-Simple simulador de las funciones básicas de un E-Commerce  
-El usuario puede ver los items del catálogo, filtrarlos por década como para saber cuáles hay, añadirlos a su carrito y ver el carrito. Todo interactuando con botones y checkboxes.
+Simulador de las funciones básicas de un E-Commerce  
+El usuario puede ingresar su usuario, con un login que tiene requerimientos de contraseña. Una vez ingresa, puede ver los items del catálogo con sus respectivas canciones de cada disco, filtrarlos por década de salida al mercado de los vinilos, añadirlos y removerlos de su carrito y ver el carrito. Todo interactuando con botones, checkboxes, dropdowns, etc.
 
 ## Se utilizan:
 + Condicionales
@@ -18,6 +18,9 @@ El usuario puede ver los items del catálogo, filtrarlos por década como para s
 + Librerías
 + DOM
 + Eventos
++ JSON
++ Storage
++ Fetch & Funciones asíncronas
 
 ---
 **Curso:** Javascript en Coderhouse
